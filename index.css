@@ -100,7 +100,7 @@ nav ul li a:hover::after{
     text-decoration: none;
     color: #fff;
     background-color: transparent;
-    padding: 10px 20px;
+    /* padding: 10px 20px; */
     margin-bottom: 25px;
     border-radius: 10px;
     border: none;
